@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ромашка — свежие букеты и цветочные композиции с заказом через WhatsApp.">
+  <title>Ромашка — цветы с душой</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  
+</head>
+<body>
+  <div class="announcement">Свежие цветы каждый день · Доставка и заказ через WhatsApp</div>
+
+  <header class="header">
+    <a class="brand" href="/">
+      <span class="brand-mark">✿</span>
+      <span><b>Ромашка</b><small>flowers & studio</small></span>
+    </a>
+    <nav>
+      <a href="#catalog">Букеты</a>
+      <a href="#about">О нас</a>
+      <a href="#contacts">Контакты</a>
+    </nav>
+    <a class="header-phone" id="phoneLink" href="#">WhatsApp <span>↗</span></a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">FLOWERS · LOVE · MOMENTS</span>
+        <h1>Цветы, которые<br><em>говорят за вас.</em></h1>
+        <p>Собираем свежие букеты с вниманием к каждой детали. Выберите композицию — остальное сделаем мы.</p>
+        <div class="hero-actions">
+          <a href="#catalog" class="btn btn-dark">Смотреть букеты <span>↓</span></a>
+          <a id="heroWhatsApp" href="#" class="btn btn-light">Написать в WhatsApp <span>↗</span></a>
+        </div>
+        <div class="hero-note"><span class="dot"></span> Работаем ежедневно · 09:00–21:00</div>
+      </div>
+      <div class="hero-image-wrap">
+        <div class="hero-image">
+          <img src="https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=1200&q=90" alt="Цветочный букет">
+        </div>
+        <div class="hero-card"><strong>01</strong><span>Нежность<br>в каждом букете</span></div>
+      </div>
+    </section>
+
+    <section class="marquee"><span>СВЕЖЕСТЬ</span><i>✿</i><span>ЭМОЦИИ</span><i>✿</i><span>КРАСОТА</span><i>✿</i><span>РОМАШКА</span><i>✿</i><span>СВЕЖЕСТЬ</span></section>
+
+    <section class="catalog section" id="catalog">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow">OUR COLLECTION</span>
+          <h2>Выберите свой букет</h2>
+        </div>
+        <p>Каждая композиция собирается из свежих цветов. Нажмите на букет, чтобы узнать больше.</p>
+      </div>
+
+      <div class="filters" id="filters"></div>
+      <div class="product-grid" id="productGrid">
+        <div class="loading">Загружаем свежие букеты...</div>
+      </div>
+    </section>
+
+    <section class="story section" id="about">
+      <div class="story-image"><img src="https://images.unsplash.com/photo-1495231916356-a86217efff12?auto=format&fit=crop&w=1200&q=90" alt="Цветы"></div>
+      <div class="story-copy">
+        <span class="eyebrow">ABOUT ROMASHKA</span>
+        <h2>Не просто цветы.<br><em>Ваш момент.</em></h2>
+        <p>Мы верим, что правильный букет может изменить настроение целого дня. Поэтому выбираем свежие цветы, аккуратно собираем композиции и красиво упаковываем каждый заказ.</p>
+        <div class="stats">
+          <div><b>Fresh</b><span>цветы каждый день</span></div>
+          <div><b>Care</b><span>ручная сборка</span></div>
+          <div><b>Fast</b><span>быстрый заказ</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta" id="contacts">
+      <div>
+        <span class="eyebrow">LET'S MAKE SOMEONE SMILE</span>
+        <h2>Нашли тот самый букет?</h2>
+        <p>Напишите нам — ответим, уточним детали и подготовим заказ.</p>
+      </div>
+      <a id="ctaWhatsApp" href="#" class="btn btn-white">Заказать в WhatsApp <span>↗</span></a>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="brand"><span class="brand-mark">✿</span><span><b>Ромашка</b><small>flowers & studio</small></span></div>
+    <span>© 2026 Ромашка. Сделано с любовью.</span>
+    <a href="/admin.html">Admin</a>
+  </footer>
+
+  <script src="/app.js"></script>
+</body>
+</html>

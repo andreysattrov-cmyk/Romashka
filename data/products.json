@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1788084519549,
+    "name": "Ромашка ",
+    "category": "Букеты",
+    "price": 10,
+    "description": "в наличи ",
+    "composition": "Ромашка",
+    "size": "",
+    "image": "data:image/jpeg;base64,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",
+    "available": true
+  },
+  {
+    "id": 1,
+    "name": "Нежная ромашка",
+    "category": "Ромашки",
+    "price": 120,
+    "description": "Воздушный букет из свежих ромашек. Лёгкий, тёплый и очень нежный подарок для близкого человека.",
+    "composition": "Ромашки, декоративная зелень, упаковка",
+    "size": "Средний",
+    "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&w=1200&q=88",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Розовая мечта",
+    "category": "Розы",
+    "price": 280,
+    "description": "Элегантная композиция из нежно-розовых роз для романтичного и красивого подарка.",
+    "composition": "Розовые розы, зелень, дизайнерская упаковка",
+    "size": "Средний",
+    "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1200&q=88",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Белая классика",
+    "category": "Букеты",
+    "price": 240,
+    "description": "Минималистичный светлый букет, который подойдёт для дня рождения, встречи или важного события.",
+    "composition": "Белые цветы, эвкалипт, зелень",
+    "size": "Средний",
+    "image": "https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=1200&q=88",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Весенний сад",
+    "category": "Букеты",
+    "price": 320,
+    "description": "Яркая сезонная композиция с живой зеленью и лёгким весенним настроением.",
+    "composition": "Сезонные цветы, зелень, лента",
+    "size": "Большой",
+    "image": "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=88",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Любовь",
+    "category": "Розы",
+    "price": 450,
+    "description": "Большой букет красных роз — классический романтический подарок для особенного человека.",
+    "composition": "Красные розы, зелень, премиальная упаковка",
+    "size": "Большой",
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1200&q=88",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Лавандовое утро",
+    "category": "Композиции",
+    "price": 210,
+    "description": "Спокойная композиция в натуральных оттенках. Идеальна для уютного подарка без повода.",
+    "composition": "Лаванда, сухоцветы, декоративная зелень",
+    "size": "Небольшой",
+    "image": "https://images.unsplash.com/photo-1495231916356-a86217efff12?auto=format&fit=crop&w=1200&q=88",
+    "available": false
+  }
+]
